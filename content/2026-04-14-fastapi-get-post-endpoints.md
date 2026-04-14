@@ -2,8 +2,6 @@ Title: Creating my first FastAPI GET & POST endpoints
 Date: 2026-04-14
 Category: GenAI
 Tags: GenAI, LLM, Python, FastAPI
-Slug: fastapi-get-post-endpoints
-Status: draft
 
 You've got your Python data — now let's serve it. In this post, you'll build a `GET` endpoint that returns JSON, a `POST` endpoint that validates input, and test everything through Swagger UI without touching a frontend.
 

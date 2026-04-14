@@ -2,8 +2,6 @@ Title: python-basics-variables-lists-and-dictionaries
 Date: 2026-04-14
 Category: GenAI
 Tags: GenAI, LLM, Python
-Slug: python-variables-list-dict
-Status: draft
 
 Python's three core building blocks — variables, lists, and dictionaries — are the foundation of everything you'll write. Get these right and everything else clicks into place.
 
