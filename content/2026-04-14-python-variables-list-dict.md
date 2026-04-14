@@ -1,9 +1,7 @@
 Title: Python Basics — Variables, Lists, and Dictionaries
-Date: 2026-01-01
+Date: 2026-04-14
 Category: GenAI
 Tags: GenAI, LLM, tag1, tag2
-Slug: python-variables-list-dict
-Status: draft
 
 Python is the go-to language for AI, data science, and backend development — and it all starts with three fundamentals: variables, lists, and dictionaries. Get these right and everything else clicks into place.
 
