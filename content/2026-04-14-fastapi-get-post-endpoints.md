@@ -65,19 +65,28 @@ from pydantic import BaseModel
 app = FastAPI()
 
 fruits = ["apple", "banana", "cherry"]
-person = {"name": "Meena", "age": 25, "city": "Bangalore"}
+persons = [{"name": "Banu", "age": 25, "city": "Bangalore"}]
 
+# GET - view all data
 @app.get("/data")
 def get_data():
-    return {"fruits": fruits, "person": person}
+    return {"fruits": fruits, "persons": persons}
 
+# GET - view all persons
+@app.get("/person")
+def get_persons():
+    return persons
+
+# Data model for POST
 class Item(BaseModel):
     name: str
     age: int
 
+# POST - add a new person
 @app.post("/person")
 def create_person(item: Item):
-    return {"message": f"Received {item.name}, age {item.age}"}
+    persons.append(item.model_dump())
+    return {"message": f"Added {item.name}, age {item.age}", "all_persons": persons}
 
 if __name__ == "__main__":
     import uvicorn
