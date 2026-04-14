@@ -1,5 +1,5 @@
-Title: About
-Date: 2026-01-10
+Title: About Python  Concept-Variables,List,Dict
+Date: 2026-04-14
 
 # About the Blog
 
@@ -7,36 +7,26 @@ This blog is about GenAI, LLMs, machine learning, Python, and tech education. I 
 
 # About Me
 
-I'm **Raja CSP Raman** — an engineer, educator, author, and founder.
+I'm **Meena K** — a Computer Science engineer based in Bangalore, Karnataka.
 
-From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
+<cite index="1-2">I hold an MTech in Computer Science and Engineering from PES University, Bangalore.</cite> My focus is on building practical, impactful software — from cloud-native architectures to machine learning systems.
 
-I moved to Canada in 2010 and studied at **Humber Institute of Technology** in Toronto. Over 13 years in Ontario, I built a career working with American and European clients across diverse tech domains — from ticketing systems to retail and gaming technology.
+## Skills
 
-Throughout my career, I've dedicated my weekends to mentoring students from rural backgrounds, teaching them cutting-edge technologies through one-on-one sessions. The impact: **442 students** have secured their first jobs through my guidance, with over **30 of them** now earning more than ₹20 lakhs annually.
+<cite index="1-3">I work primarily with Python, SQL, and Web Technologies, with a good foundation in C, C++, and Java.</cite>
 
-## Current Work
+## Projects
 
-I'm the founder of **[Kactii](https://app.kactii.com/c/raja)** — a GenAI Agent Marketplace. I also operate **Kactii Academy** from Toronto, focusing on nurturing both Canadians and South Indians in the latest GenAI technology stack. Previously, I led **Aracor** as Head of AI & Engineering, where I managed an 11-member team and initiated the AI roadmap for AracorAI.
+<cite index="1-3,1-4">I built a Scalable Web Application using ALB & Auto Scaling — a highly available architecture deployed on Amazon EC2, Application Load Balancer (ALB), and Auto Scaling Group (ASG), designed to scale automatically based on traffic demand with fault tolerance across multiple Availability Zones.</cite>
 
-I'm also the founder of **Featurepreneur**, an invitation-only Slack community focused on student development, supporting Canadian SMEs and startups on their micro features.
+<cite index="1-5">I also worked on a Privacy-Preserving Machine Learning Ensemble for Spam Detection, which classifies spam vs. non-spam using an ensemble of ML algorithms, with privacy handled via cryptographic techniques and automatic routing of emails to appropriate folders.</cite>
 
-My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of India**, a vision I'm actively pursuing through collaborations with engineering colleges across Tamil Nadu.
+Other projects include <cite index="1-6,1-7">an Online Movie Ticket platform where users can reserve and cancel tickets via credit card,</cite> and <cite index="1-8,1-9">a Blood Camp application for registering blood donors and browsing available blood groups.</cite>
 
-## Publications & Open Source
+## Certifications
 
-- Author of **"Building RESTful Web Services with Spring 5"**
-- Published **8 research papers** on Arxiv, with collaborative student efforts
-- PyPI / FOSS contributions: **Agentic Optio** (lightweight LangChain alternate), **TokSum** (GenAI token counter), **Tamil Tokenizer**
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/raja-csp-raman/)
-- [GitHub](https://github.com/rajacsp)
-- [PyPI](https://pypi.org/user/rajacsp/)
-- [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
-- [Kactii](https://app.kactii.com/c/raja)
+<cite index="1-10,1-11">I've completed certificate courses in Web Development, Python Full Stack, and AWS & DevOps.</cite>
 
 ## Outside of Tech
 
-When I'm not shaping the future of tech education, you might find me unwinding with a John Grisham novel.
+<cite index="1-12,1-13">I enjoy listening to music and speak English, Kannada, and Tamil.</cite>
