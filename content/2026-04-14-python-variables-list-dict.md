@@ -1,4 +1,4 @@
-Title: Python Variables, Lists, and Dictionaries
+Title: python-basics-variables-lists-and-dictionaries
 Date: 2026-04-14
 Category: GenAI
 Tags: GenAI, LLM, Python
